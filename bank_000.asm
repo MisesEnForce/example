@@ -361,7 +361,7 @@ HeaderLogo::
     db $bb, $bb, $67, $63, $6e, $0e, $ec, $cc, $dd, $dc, $99, $9f, $bb, $b9, $33, $3e
 
 HeaderTitle::
-    db "GARGOYLE'S", $00, $00, $00, $00, $00, $00
+    db "NAUMOVIC'S", $00, $00, $00, $00, $00, $00
 
 HeaderNewLicenseeCode::
     db $00, $00
